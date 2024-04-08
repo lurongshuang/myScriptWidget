@@ -1,5 +1,5 @@
 name: myscriptwidget
-description: A new Flutter project.
+description: flutter 封装 跨平台手写识别和交互式墨水 API
 version: 0.0.1
 homepage: https://github.com/lurongshuang/myScriptWidget.git
 
