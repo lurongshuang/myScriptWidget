@@ -1,6 +1,6 @@
 name: myscriptwidget
 description: flutter 封装 跨平台手写识别和交互式墨水 API
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/lurongshuang/myScriptWidget.git
 
 environment:
@@ -37,8 +37,8 @@ flutter:
       android:
         package: com.example.myscriptwidget
         pluginClass: MyscriptwidgetPlugin
-#      ios:
-#        pluginClass: MyscriptwidgetPlugin
+     ios:
+       pluginClass: MyscriptwidgetPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
